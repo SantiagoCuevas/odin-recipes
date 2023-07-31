@@ -1,0 +1,39 @@
+body {
+  background-color: lightgreen;
+  border-style: solid;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-style: solid;
+  bord
+}
+
+p {
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-size: 40px;
+}
+
+ol {
+  text-align: center;
+  font-size: 40px;
+  list-style-position: inside;
+}
